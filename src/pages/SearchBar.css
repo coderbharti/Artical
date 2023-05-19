@@ -1,0 +1,66 @@
+.heading{
+    position: absolute;
+width: 118px;
+height: 30px;
+left: 100px;
+top: 80px;
+
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #252525;
+
+}
+.search-bar{
+    box-sizing: border-box;
+
+position: absolute;
+width: 384px;
+height: 56px;
+left: 936px;
+top: 120px;
+
+/* P/Davy's Grey/100 */
+
+background: #FFFFFF;
+/* P/Davy's Grey/400 */
+
+border: 1px solid #E0E0E0;
+border-radius: 8px;
+}
+.search-bar::placeholder{
+    position: absolute;
+width: 97px;
+height: 18px;
+left: 20px;
+top: 19px;
+
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #898989;
+
+}
+
+.search-icon{
+    position: absolute;
+left: 92.83%;
+right:60.17%;
+top: 21.93%;
+bottom: 60.17%;
+
+/* P/Davy's Grey/800(Main) */
+
+border: 2px solid #4C4C4C;
+
+}

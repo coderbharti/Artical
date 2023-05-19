@@ -1,0 +1,6 @@
+.divs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px; /* Adjust the gap between divs as needed */
+
+}
